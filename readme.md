@@ -9,7 +9,7 @@ This Site develped For the Web Application Lab Assignment
     
 </p>
 
-[![Site preview](/Screenshot_20230107_191737.png)](https://clinquant-pavlova-a0dace.netlify.app/)
+[![Site preview](/Screenshot_20230107_191737.png)](https://classy-clafoutis-666d0b.netlify.app/)
 
 ## Technology Stack 🛠️ -HTML , CSS , Bootstrap 
-# Live Site Link - https://clinquant-pavlova-a0dace.netlify.app/
+# Live Site Link - https://classy-clafoutis-666d0b.netlify.app/
